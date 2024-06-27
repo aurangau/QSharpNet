@@ -18,7 +18,6 @@ from wandb.keras import WandbMetricsLogger, WandbModelCheckpoint
 from dataGeneration import *
 from tensorflow.image import psnr
 
-# Defining convolution block
 '''
 Function for a single convolution block
 [CONV -> BN -> RELU] -> [CONV -> BN -> RELU]
