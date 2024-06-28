@@ -1,7 +1,7 @@
 # QSharpNet
 A Sharpness Based Loss Function for Removing Out-of-Focus Blur
 
-Please contact {aurangau}@tcd<dot>ie for a link to the pre-trained weights
+Please contact {aurangau}@tcd{dot}ie for a link to the pre-trained weights
 
 ## How-to
 1. Put clean images in folder 'CleanImages'
